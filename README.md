@@ -3,9 +3,9 @@
 
 Submitted by: **Priscilla Diaz**
 
-**Name of your app** is an app that... [TODO] 
+**myAmazingApp** is an app that changes the background color of the screen with the click of a button 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -18,10 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1wFgTB7PmGSzok8XGKWE7USX_NoIty6JT/view?usp=drive_link' title='GIF Walkthrough' width='' alt ='GIF Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -59,7 +59,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Priscilla Diaz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
